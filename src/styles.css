@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  width: 1100px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px dotted red;
+}
+
+/* Header Styles */
+header img {
+  width: 100%;
+}
+
+nav {
+  width: 100%;
+  margin: 6% 2% 0% 0%;
+  border: 2px dotted red;
+}
+
+nav ul li {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    "DejaVu Sans", Verdana, sans-serif;
+  font-size: 1rem;
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
